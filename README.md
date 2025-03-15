@@ -4,11 +4,11 @@ Este proyecto es una API de inventario construida con **Spring WebFlux** y **R2D
 
 ## Tecnologías utilizadas
 
-- **Java 23**
+- **Java 17**
 - **Spring Boot 3.4.3**
 - **Spring WebFlux**
 - **Spring Data R2DBC**
-- **MySQL 8.3**
+- **MySQL**
 - **Flyway**
 - **Docker** (opcional para MySQL)
 
