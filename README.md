@@ -10,7 +10,6 @@ Este proyecto es una API de inventario construida con **Spring WebFlux** y **R2D
 - **Spring Data R2DBC**
 - **MySQL**
 - **Flyway**
-- **Docker** (opcional para MySQL)
 
 ## Cómo ejecutar el proyecto
 
